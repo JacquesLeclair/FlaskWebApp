@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+cat << EOF | sudo tee .gitignore
+.venv
+EOF
